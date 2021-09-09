@@ -1,5 +1,3 @@
-# nesaprabhu
+# Display the output
 
-## Editing the file
-
-Its a markdown file in this repository.
+print("My name is Nesa Prabhu")
